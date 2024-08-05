@@ -8,6 +8,6 @@ public class Assignment1 {
         int myInt = 32;
 
         long myLong = 80000 - (5 * (myInt + myShort + myByte));
-        System.out.println( "it is equal to: " myLong);
+        System.out.println( "it is equal to: " + myLong);
     }
 }
